@@ -29,6 +29,7 @@ I am a quick learner who is currently investing my time in learning Docker and p
 Certificate | Year | Credential
 ------------ | ------------- | -------------
 DevOps Professional  | [May 2019] | EXIN -  ID 5901295.20767169
+Certified Associate in Project Management (CAPM) | [May 2018] | PMI - ID 2208525
 DevOps Essentials | [Nov 2017] | ITCERTS -  ID 5F5EE88 
 DevOps Security | [Nov 2017]  | ITCERTS - ID 5F5EE89
 ITIL-Foundation | [Dec 2016]  | EXIN - ID EXIN219590
