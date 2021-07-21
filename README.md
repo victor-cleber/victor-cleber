@@ -15,29 +15,27 @@ Here are some ideas to get you started:
 - ⚡ My certificates: ...
 -->
 
-I am an open-minded, highly motivated, and energetic IT professional with several years of IT experience in varied roles. With my previous experiences and knowledge, I can offer my prospective employers a high technical proficiency and hard work level. I have rich experience designing and implementing successful collaborative projects and have a great enthusiasm for quickly learning new systems and processes.
+I am an open-minded, highly motivated, and energetic IT professional with several years of IT experience in varied roles. With my previous experiences and knowledge, I can offer my prospective employers high technical proficiency and hard work. I have rich experience in designing and implementing successful collaborative projects and have a great enthusiasm for learning new systems and processes.
+I am a quick learner who is currently investing my time in learning Docker and practicing deployment on cloud using AWS.
 
-I’m currently learning Docker and practing deployment on cloud computing using AWS.
-
-🔭 My rofessional skills are:
-- DevOps, Agile Project management, Technical support;
+🔭 Professional skills:
+- DevOps, Agile Project Management;
 - Python, Django, Docker, Microservices, Puppet, MariaDB;
-- JavaScript; Git; Node.js;
+- JavaScript, Git, Node.js;
 - ASP.NET, C#, SqlServer;
 - AWS.
 
-⚡ My certificates: 
+⚡ Certifications: 
 Certificate | Year | Credential
 ------------ | ------------- | -------------
 DevOps Professional  | [May 2019] | EXIN -  ID 5901295.20767169
-Certified Associate in Project Management (CAPM) | [May 2018] | PMI - ID 2208525
 DevOps Essentials | [Nov 2017] | ITCERTS -  ID 5F5EE88 
 DevOps Security | [Nov 2017]  | ITCERTS - ID 5F5EE89
 ITIL-Foundation | [Dec 2016]  | EXIN - ID EXIN219590
 ScrumMaster | [Nov 2015]  | Scrum Alliance - ID 000461472
 Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS - ID CPRE-FL 20140376
 
-🔭 My professional experience:
+🔭 Professional experience:
 
 Position | Environment | Company
 ------------ | ------------- | -------------
