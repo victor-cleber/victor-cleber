@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <!--
 **victor-cleber/victor-cleber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,15 +14,29 @@ Here are some ideas to get you started:
 - ⚡ My certificates: ...
 -->
 
-I am an open-minded, highly motivated, and energetic IT professional with several years of IT experience in varied roles. With my previous experiences and knowledge, I can offer my prospective employers high technical proficiency and hard work. I have rich experience in designing and implementing successful collaborative projects and have a great enthusiasm for learning new systems and processes.
-I am a quick learner who is currently investing my time in learning Docker and practicing deployment on cloud using AWS.
+<a href="https://my.indeed.com/p/victorcleberf-93uy3ch" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
+
+### 💬 About me 
+
+Software Developer | DevOps | CAPM | Scrum and ITIL
+
+I have more than ten years working in the development and integration of systems. In addition, I have worked as a project leader and systems integration using Python. I am an expert in Systems Analysis and Development, and recently, I have completed my international master's degree in Information Technology. My experiences include also:
+
+- experience as a Software Engineer using Python;
+- experience as a Full Stack developer using .Net;
+- since 2015 performing as Agile;
+- since 2009 acting as Dev.
+
+I have rich experience in designing and implementing successful collaborative projects and have a great enthusiasm for learning new systems and processes.
+I am a quick learner who is currently investing my time in learning Docker and practising deployment on the cloud using Azure and AWS.
 
 🔭 Professional skills:
-- DevOps, Agile Project Management;
 - Python, Django, Docker, Microservices, Puppet, MariaDB;
-- JavaScript, Git, Node.js;
+- JavaScript, Git<!--, Node.js-->;
 - ASP.NET, C#, SqlServer;
-- AWS.
+- DevOps, Agile Project Management.
+<!--- AWS.-->
 
 ⚡ Certifications: 
 Certificate | Year | Credential
@@ -45,12 +58,7 @@ System Analyst and Developer<br/>[Aug/2012 – Nov/2015] | Asp .Net C#, SQL Serv
 System Analyst and Developer<br/>[Dec/2011 – Jul/2012] | Asp .Net C#, SQL Server | BRR Credit Management - Brazil	
 
 
-<br/>
-<a href="https://www.linkedin.com/in/victor-cleber/?locale=en_US" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img></a>&nbsp;
-<a href="https://www.instagram.com/alfredogomesss/" target="_blank">&nbsp;
-&nbsp;<a href="https://my.indeed.com/p/victorcleberf-93uy3ch" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img></a>
-</br>
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-cleber&layout=compact)](https://github.com/victor-cleber/github-readme-stats)
 -->
