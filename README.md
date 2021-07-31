@@ -27,8 +27,7 @@ I have more than ten years working in the development and integration of systems
 - since 2015 performing as Agile;
 - since 2009 acting as Dev.
 
-I have rich experience in designing and implementing successful collaborative projects and have a great enthusiasm for learning new systems and processes.
-I am a quick learner who is currently investing my time in learning Docker and practising deployment on the cloud using Azure and AWS.
+My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
 
 🔭 Professional skills:
 - Python, Django, Docker, Microservices, Puppet, MariaDB;
@@ -57,8 +56,8 @@ System Analyst and Developer<br/>[Aug/2012 – Nov/2015] | Asp .Net C#, SQL Serv
 System Analyst and Developer<br/>[Dec/2011 – Jul/2012] | Asp .Net C#, SQL Server | BRR Credit Management - Brazil	
 
 
->[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
+<!-- >Text -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-cleber&layout=compact)](https://github.com/victor-cleber/github-readme-stats)
 -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-cleber&theme=dark)](https://github.com/victor-cleber/github-readme-stats)-->
