@@ -12,14 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ My certificates: ...
--->
-
-<a href="https://my.indeed.com/p/victorcleberf-93uy3ch" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img></a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
 
 ### 💬 About me 
-
+-->
 Software Developer | DevOps | CAPM | Scrum and ITIL
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-cleber&show_icons=true&hide=contribs,issues,prs&theme=dark)
+
 
 I have more than ten years working in the development and integration of systems. In addition, I have worked as a project leader and systems integration using Python. I am an expert in Systems Analysis and Development, and recently, I have completed my international master's degree in Information Technology. My experiences include also:
 
@@ -58,7 +57,8 @@ System Analyst and Developer<br/>[Aug/2012 – Nov/2015] | Asp .Net C#, SQL Serv
 System Analyst and Developer<br/>[Dec/2011 – Jul/2012] | Asp .Net C#, SQL Server | BRR Credit Management - Brazil	
 
 
-
+>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-cleber&layout=compact)](https://github.com/victor-cleber/github-readme-stats)
 -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-cleber&theme=dark)](https://github.com/victor-cleber/github-readme-stats)-->
