@@ -15,45 +15,48 @@ Here are some ideas to get you started:
 
 ### 💬 About me 
 -->
-Software Developer | DevOps | CAPM | Scrum and ITIL
+#### Software Developer | DevOps | CAPM | Scrum | ITIL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-cleber&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
 
-I have more than ten years working in the development and integration of systems. In addition, I have worked as a project leader and systems integration using Python. I am an expert in Systems Analysis and Development, and recently, I have completed my international master's degree in Information Technology. My experiences include also:
+I have some experience working in the development and integration of systems. In addition, I have worked as a project leader and systems integration using Python. I am an expert in Systems Analysis and Development, and recently, I have completed my international Master's Degree in Information Technology. My experiences include also:
 
 - experience as a Software Engineer using Python;
 - experience as a Full Stack developer using .Net;
 - since 2015 performing as Agile;
-- since 2009 acting as Dev.
+- since 2009 acting as Software Developer.
 
 My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
 
-🔭 Professional skills:
+### 🔭 Professional skills
+- .NET Core, C#, SqlServer;
 - Python, Django, Docker, Microservices, Puppet, MariaDB;
 - JavaScript, Git<!--, Node.js-->;
-- ASP.NET, C#, SqlServer;
 - DevOps, Agile Project Management.
 <!--- AWS.-->
 
-⚡ Certifications: 
+### ⚡ Certifications
 Certificate | Year | Credential
 ------------ | ------------- | -------------
-DevOps Professional  | [May 2019] | EXIN -  ID 5901295.20767169
-Certified Associate in Project Management (CAPM) | [May 2018] | PMI - ID 2208525
-DevOps Essentials | [Nov 2017] | ITCERTS -  ID 5F5EE88 
-DevOps Security | [Nov 2017]  | ITCERTS - ID 5F5EE89
-ITIL-Foundation | [Dec 2016]  | EXIN - ID EXIN219590
-ScrumMaster | [Nov 2015]  | Scrum Alliance - ID 000461472
-Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS - ID CPRE-FL 20140376
+DevOps Professional  | [May 2019] | EXIN
+Certified Associate in Project Management (CAPM) | [May 2018] | PMI
+DevOps Essentials | [Nov 2017] | ITCERTS
+DevOps Security | [Nov 2017]  | ITCERTS
+ITIL-Foundation | [Dec 2016]  | EXIN
+ScrumMaster | [Nov 2015]  | Scrum Alliance
+Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS
 
-🔭 Professional experience:
+### 🔭 Professional experience:
 
 Position | Environment | Company
 ------------ | ------------- | -------------
 Full Stack Developer<br/>[Nov/2015 – Nov/2018] | Django REST framework (Python), MariaDB, SQL Server, Git, Vagrant, Celery, Microservices, Puppet | EQUINIX - Sao Paulo / Brazil
 System Analyst and Developer<br/>[Aug/2012 – Nov/2015] | Asp .Net C#, SQL Server, API Commvault, API Zabbix | EQUINIX – Rio de Janeiro / Brazil
 System Analyst and Developer<br/>[Dec/2011 – Jul/2012] | Asp .Net C#, SQL Server | BRR Credit Management - Brazil	
+
+### :mailbox_with_mail: Contato
+#### E-mail: victor.cleber@outlook.com
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
