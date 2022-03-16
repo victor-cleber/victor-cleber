@@ -51,6 +51,9 @@ Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS
 
 Position | Environment | Company
 ------------ | ------------- | -------------
+
+
+Internal Suppport Engineer<br/>[Dec 2021 - Mar 2022] | Jenkins, Ansible, DataDog, Python | Solnet Solutions
 Full Stack Developer<br/>[Nov/2015 – Nov/2018] | Django REST framework (Python), MariaDB, SQL Server, Git, Vagrant, Celery, Microservices, Puppet | EQUINIX - Sao Paulo / Brazil
 System Analyst and Developer<br/>[Aug/2012 – Nov/2015] | Asp .Net C#, SQL Server, API Commvault, API Zabbix | EQUINIX – Rio de Janeiro / Brazil
 System Analyst and Developer<br/>[Dec/2011 – Jul/2012] | Asp .Net C#, SQL Server | BRR Credit Management - Brazil	
