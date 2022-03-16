@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 💬 About me 
 -->
-#### Software Developer | DevOps | CAPM | Scrum | ITIL
+#### Software Developer | DevOps | PMI-CAPM | Scrum | ITIL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-cleber&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
@@ -40,7 +40,7 @@ My enthusiasm for learning new systems and processes helps me design and impleme
 Certificate | Year | Credential
 ------------ | ------------- | -------------
 DevOps Professional  | [May 2019] | EXIN
-Certified Associate in Project Management (CAPM) | [May 2018] | PMI
+Certified Associate in Project Management | [May 2018] | PMI-CAPM
 DevOps Essentials | [Nov 2017] | ITCERTS
 DevOps Security | [Nov 2017]  | ITCERTS
 ITIL-Foundation | [Dec 2016]  | EXIN
