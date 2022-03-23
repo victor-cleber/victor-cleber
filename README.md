@@ -15,26 +15,32 @@ Here are some ideas to get you started:
 
 ### 💬 About me 
 -->
-#### Software Developer | DevOps | PMI-CAPM | Scrum | ITIL
+
+## Hello world, my name is Victor Cleber! 
+
+:bulb: DevOps | Software Developer | PMI-CAPM | Scrum | ITIL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-cleber&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
-I have experience working in the development and integration of systems. In addition, I have worked as a project leader in a systems integration using Python. I am an expert in Systems Analysis and Development, and recently, I have completed my international Master's Degree in Information Technology. My experiences include also:
 
-- experience as a Software Engineer using Python;
-- experience as a Full Stack developer using .Net;
-- since 2015 performing as Agile;
-- since 2009 acting as Software Developer.
+### 🔭 Professional experience
 
-My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
+Position       | Period         | Environment 
+------------   | -------------  | ------------- 
+Internal Suppport Engineer | [Dec/2021 - Mar/2022] | ⇢ Comprehensive systems hardware and network troubleshooting experience.<br> ⇢ Automated workflow installation processes using AWX (Ansible). <br>⇢ Handled issues as the first point of contact providing level 1-2 support.<br>• Environment: Jira, Bit Bucket, Nexus, Ansible, Terraform, Jenkins, Azure DevOps, AWS, DataDog, OP5, OpenShift.
+Full Stack Developer | [Nov/2015 – Nov/2018] | ⇢ Designed and built microservices using Django to maintain and integrate an internal tool (EAR) and diverse infrastructure APIs (Zabbix, Commvault). <br>⇢ Assisted engineering teams in debugging and fixing issues. <br>⇢ Promoted Agile culture across the company. <br>⇢Environment: Django REST framework (Python), MySQL and SQL Server, Git, Vagrant, Celery, Puppet.Django REST framework (Python), MariaDB, SQL Server.
+System Analyst and Developer | [Aug/2012 – Nov/2015] | ⇢ Designed, built and maintained a Zabbix dashboard. <br> ⇢ Help Infrastructure and Engineering teams to debug and fix issues. <br>⇢ Environment: Scrum, Asp .Net C#, SQL Server, API Zabbix.
+System Analyst and Developer | [Dec/2011 – Jul/2012] | ⇢ Designed, built and maintained C# code. <br>⇢ Environment: Asp.Net C#, SQL Server, Agile.
 
-### 🔭 Professional skills
-- Ansible, Pipelines using Jenkins and Azure DevOps, Terraform;
+> My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
+
+<!--### 🔭 Professional skills
+- Ansible, Pipelines using Jenkins and Azure DevOps, Nexus;
 - .NET Core, C#, SqlServer;
 - Python, Django, Docker, Microservices, Puppet, MariaDB;
-- JavaScript, Git<!--, Node.js-->;
+- JavaScript, Git<!--, Node.js
 - DevOps, Agile Project Management.
-<!--- AWS.-->
+ AWS.-->
 
 ### ⚡ Certifications
 Certificate | Year | Credential
@@ -47,17 +53,8 @@ ITIL-Foundation | [Dec 2016]  | EXIN
 ScrumMaster | [Nov 2015]  | Scrum Alliance
 Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS
 
-### 🔭 Professional experience
 
-Position       | Period         | Environment 
-------------   | -------------  | ------------- 
-Internal Suppport Engineer | [Dec/2021 - Mar/2022] | Jenkins, Ansible, DataDog, Python, BitBucket
-Full Stack Developer | [Nov/2015 – Nov/2018] | Django REST framework (Python), MariaDB, SQL Server, Git,<br/> Vagrant, Celery, Microservices, Puppet
-System Analyst and Developer | [Aug/2012 – Nov/2015] | Asp .Net C#, SQL Server, API Commvault, API Zabbix
-System Analyst and Developer | [Dec/2011 – Jul/2012] | Asp .Net C#, SQL Server
-
-### :mailbox_with_mail: Contato
-#### E-mail: victor.cleber@outlook.com
+### :mailbox_with_mail: victor.cleber@outlook.com
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
