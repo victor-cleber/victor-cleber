@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 Position       | Period         | Environment 
 ------------   | -------------  | ------------- 
-Internal Suppport Engineer | [Dec/2021 - Mar/2022] | ⇢ Comprehensive systems hardware and network troubleshooting experience.<br> ⇢ Automated workflow installation processes using AWX (Ansible). <br>⇢ Handled issues as the first point of contact providing level 1-2 support.<br>• Environment: Jira, Bit Bucket, Nexus, Ansible, Terraform, Jenkins, Azure DevOps, AWS, DataDog, OP5, OpenShift.
-Full Stack Developer | [Nov/2015 – Nov/2018] | ⇢ Designed and built microservices using Django to maintain and integrate an internal tool (EAR) and diverse infrastructure APIs (Zabbix, Commvault). <br>⇢ Assisted engineering teams in debugging and fixing issues. <br>⇢ Promoted Agile culture across the company. <br>⇢Environment: Django REST framework (Python), MySQL and SQL Server, Git, Vagrant, Celery, Puppet.Django REST framework (Python), MariaDB, SQL Server.
-System Analyst and Developer | [Aug/2012 – Nov/2015] | ⇢ Designed, built and maintained a Zabbix dashboard. <br> ⇢ Help Infrastructure and Engineering teams to debug and fix issues. <br>⇢ Environment: Scrum, Asp .Net C#, SQL Server, API Zabbix.
-System Analyst and Developer | [Dec/2011 – Jul/2012] | ⇢ Designed, built and maintained C# code. <br>⇢ Environment: Asp.Net C#, SQL Server, Agile.
+Internal Suppport Engineer | [Dec/2021 – Mar/2022] | • Comprehensive systems hardware and network troubleshooting experience.<br> • Automated workflow installation processes using AWX (Ansible). <br>• Handled issues as the first point of contact providing level 1-2 support.<br> ⇢ Environment: Jira, Bit Bucket, Nexus, Ansible, Terraform, Jenkins, Azure DevOps, AWS, DataDog, OP5, OpenShift.
+Full Stack Developer | [Nov/2015 – Nov/2018] | • Designed and built microservices using Django to maintain and integrate an internal tool (EAR) and diverse infrastructure APIs (Zabbix, Commvault). <br>• Assisted engineering teams in debugging and fixing issues. <br>• Promoted Agile culture across the company. <br>⇢Environment: Django REST framework (Python), MySQL and SQL Server, Git, Vagrant, Celery, Puppet.Django REST framework (Python), MariaDB, SQL Server.
+System Analyst and Developer | [Aug/2012 – Nov/2015] | • Designed, built and maintained a Zabbix dashboard. <br> • Help Infrastructure and Engineering teams to debug and fix issues. <br>⇢ Environment: Scrum, Asp .Net C#, SQL Server, API Zabbix.
+System Analyst and Developer | [Dec/2011 – Jul/2012] | • Designed, built and maintained C# code. <br>⇢ Environment: Asp.Net C#, SQL Server, Agile.
 
 > My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
 
