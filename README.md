@@ -18,11 +18,19 @@ Here are some ideas to get you started:
 
 ## Hello world, my name is Victor Cleber! 
 
-:bulb: DevOps | Software Developer | PMI-CAPM | Scrum | ITIL
+:bulb: DevOps Engineer | Cloud Engineer | SRE | AWS Certified | Scrum | ITIL
+
+Bilingual (English and Portuguese), hardworking and energetic professional with several years of experience in various IT roles, including cloud computing, software programming, and customer service interactions in collaborative work environments using Agile/Scrum.
+
+I'm looking for new and challenging opportunities to build on my cloud knowledge and gain more exposure and experience in infrastructure automation.
+
+I'm interested in hearing from former colleagues, managers or other professionals. So feel free to contact me if you wish.
+
+✔ Open to remote and overseas locations.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-cleber&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
-
+<!--
 ### 🔭 Professional experience
 
 Position       | Period         | Environment 
@@ -34,13 +42,13 @@ System Analyst and Developer | [Dec/2011 – Jul/2012] | • Designed, built and
 
 > My enthusiasm for learning new systems and processes helps me design and implement successful collaborative projects. I am currently investing my time to learn Docker and practising cloud-based solutions using Azure and AWS.
 
-<!--### 🔭 Professional skills
+### 🔭 Professional skills
 - Ansible, Pipelines using Jenkins and Azure DevOps, Nexus;
 - .NET Core, C#, SqlServer;
 - Python, Django, Docker, Microservices, Puppet, MariaDB;
 - JavaScript, Git<!--, Node.js
 - DevOps, Agile Project Management.
- AWS.-->
+ AWS.
 
 ### ⚡ Certifications
 Certificate | Year | Credential
@@ -53,9 +61,8 @@ ITIL-Foundation | [Dec 2016]  | EXIN
 ScrumMaster | [Nov 2015]  | Scrum Alliance
 Professional for Requirements Engineering (CPRE) | [Dec 2014] | IBQTS
 
-
 ### :mailbox_with_mail: victor.cleber@outlook.com
-
+-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-cleber/?locale=en_US)](https://www.linkedin.com/in/victor-cleber/?locale=en_US)
 <!-- >Text -->
