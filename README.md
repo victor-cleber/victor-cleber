@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Bilingual (English and Portuguese), hardworking and energetic professional with several years of experience in various IT roles, including cloud computing, software programming, and customer service interactions in collaborative work environments using Agile/Scrum.
 
-I'm looking for new and challenging opportunities to build on my cloud knowledge and gain more exposure and experience in infrastructure automation.
+I'm ready for new and challenging opportunities to build on my cloud knowledge and gain more exposure and experience in infrastructure automation.
 
 I'm interested in hearing from former colleagues, managers or other professionals. So feel free to contact me if you wish.
 
