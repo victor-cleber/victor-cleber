@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hello world, my name is Victor Cleber! 
 
-:bulb: DevOps Engineer | Cloud Engineer | SRE | AWS Certified | Scrum | ITIL
+:bulb: Cloud & Platform Engineer | DevOps | AWS | Terraform | CI/CD | Scrum | ITIL
 
 Bilingual (English and Portuguese), hardworking and energetic professional with several years of experience in various IT roles, including cloud computing, software programming, and customer service interactions in collaborative work environments using Agile/Scrum.
 
